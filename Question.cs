@@ -5,14 +5,14 @@ namespace QnA
 {
     class Question
     {
-        private string Title { get; set;}
-        private int UpVote { get; set;}
-        private int DownVote { get; set;}
-        private string UserName { get; set;}
-        private string UserEmailId { get; set;}
-        private DateTime EntryDate { get; set; }
-        private DateTime UpdateDate { get; set; }
-        private List<Answer> answers { get; set; }
+        public  string Title { get; set;}
+        public int UpVote { get; set;}
+        public int DownVote { get; set;}
+        public string UserName { get; set;}
+        public string UserEmailId { get; set;}
+        public DateTime EntryDate { get; set; }
+        public DateTime UpdateDate { get; set; }
+        public List<Answer> answers { get; set; }
 
         public Question(string title, string userName, string userEmailId, DateTime entryDate)
         {

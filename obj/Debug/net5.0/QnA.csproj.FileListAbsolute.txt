@@ -1,0 +1,16 @@
+C:\Users\dhruv.maddirala\Documents\VSCodeProjects\QnA\bin\Debug\net5.0\QnA.exe
+C:\Users\dhruv.maddirala\Documents\VSCodeProjects\QnA\bin\Debug\net5.0\QnA.deps.json
+C:\Users\dhruv.maddirala\Documents\VSCodeProjects\QnA\bin\Debug\net5.0\QnA.runtimeconfig.json
+C:\Users\dhruv.maddirala\Documents\VSCodeProjects\QnA\bin\Debug\net5.0\QnA.runtimeconfig.dev.json
+C:\Users\dhruv.maddirala\Documents\VSCodeProjects\QnA\bin\Debug\net5.0\QnA.dll
+C:\Users\dhruv.maddirala\Documents\VSCodeProjects\QnA\bin\Debug\net5.0\ref\QnA.dll
+C:\Users\dhruv.maddirala\Documents\VSCodeProjects\QnA\bin\Debug\net5.0\QnA.pdb
+C:\Users\dhruv.maddirala\Documents\VSCodeProjects\QnA\obj\Debug\net5.0\QnA.csproj.AssemblyReference.cache
+C:\Users\dhruv.maddirala\Documents\VSCodeProjects\QnA\obj\Debug\net5.0\QnA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhruv.maddirala\Documents\VSCodeProjects\QnA\obj\Debug\net5.0\QnA.AssemblyInfoInputs.cache
+C:\Users\dhruv.maddirala\Documents\VSCodeProjects\QnA\obj\Debug\net5.0\QnA.AssemblyInfo.cs
+C:\Users\dhruv.maddirala\Documents\VSCodeProjects\QnA\obj\Debug\net5.0\QnA.csproj.CoreCompileInputs.cache
+C:\Users\dhruv.maddirala\Documents\VSCodeProjects\QnA\obj\Debug\net5.0\QnA.dll
+C:\Users\dhruv.maddirala\Documents\VSCodeProjects\QnA\obj\Debug\net5.0\ref\QnA.dll
+C:\Users\dhruv.maddirala\Documents\VSCodeProjects\QnA\obj\Debug\net5.0\QnA.pdb
+C:\Users\dhruv.maddirala\Documents\VSCodeProjects\QnA\obj\Debug\net5.0\QnA.genruntimeconfig.cache
