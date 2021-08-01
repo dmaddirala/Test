@@ -20,6 +20,7 @@ namespace QnA
             this.UserName = userName;
             this.UserEmailId = userEmailId;
             this.EntryDate = entryDate;
+            this.UpdateDate = UpdateDate;
             
         }
     }

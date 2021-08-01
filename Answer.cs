@@ -5,13 +5,13 @@ namespace QnA
 {
     public class Answer
     {
-        private string Ans { get; set;}
-        private int UpVote { get; set;}
-        private int DownVote { get; set;}
-        private string UserName { get; set;}
-        private string UserEmailId { get; set;}
-        private DateTime EntryDate { get; set; }
-        private DateTime UpdateDate { get; set; }
+        public string Ans { get; set;}
+        public int UpVote { get; set;}
+        public int DownVote { get; set;}
+        public string UserName { get; set;}
+        public string UserEmailId { get; set;}
+        public DateTime EntryDate { get; set; }
+        public DateTime UpdateDate { get; set; }
 
         public Answer(string ans, string userName, string userEmailId, DateTime entryDate){
             this.Ans = ans;

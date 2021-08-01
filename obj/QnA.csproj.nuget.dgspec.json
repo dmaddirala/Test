@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dhruv.maddirala\\Documents\\VSCodeProjects\\QnA\\QnA.csproj": {}
+    "c:\\Users\\dhruv.maddirala\\Documents\\VSCodeProjects\\QnA\\QnA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dhruv.maddirala\\Documents\\VSCodeProjects\\QnA\\QnA.csproj": {
+    "c:\\Users\\dhruv.maddirala\\Documents\\VSCodeProjects\\QnA\\QnA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dhruv.maddirala\\Documents\\VSCodeProjects\\QnA\\QnA.csproj",
+        "projectUniqueName": "c:\\Users\\dhruv.maddirala\\Documents\\VSCodeProjects\\QnA\\QnA.csproj",
         "projectName": "QnA",
-        "projectPath": "C:\\Users\\dhruv.maddirala\\Documents\\VSCodeProjects\\QnA\\QnA.csproj",
+        "projectPath": "c:\\Users\\dhruv.maddirala\\Documents\\VSCodeProjects\\QnA\\QnA.csproj",
         "packagesPath": "C:\\Users\\dhruv.maddirala\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dhruv.maddirala\\Documents\\VSCodeProjects\\QnA\\obj\\",
+        "outputPath": "c:\\Users\\dhruv.maddirala\\Documents\\VSCodeProjects\\QnA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

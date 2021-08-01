@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace QnA
 {
@@ -6,7 +7,7 @@ namespace QnA
     {
         static void Main(string[] args)
         {
-            QuestionRepository repository = new QuestionRepository();
+            Repository repository = new Repository();
             var questions = repository.GetQuestions();
 
             Console.WriteLine();
@@ -16,7 +17,7 @@ namespace QnA
                 Console.WriteLine("Title: " + question.Title);
                 Console.WriteLine("username: " + question.UserName);
                 Console.WriteLine("Email Id: " + question.UserEmailId);
-                Console.WriteLine("Time: " + question.Title);
+                Console.WriteLine("Time: " + question.UpdateDate.Date);
                 Console.WriteLine("------------------------------------------------\n");
             }
         }
