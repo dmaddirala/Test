@@ -1,5 +1,9 @@
 using System;
 using System.Collections.Generic;
+using System.Threading;
+using System.Threading.Tasks;
+using Newtonsoft.Json;
+using RestSharp;
 
 namespace QnA
 {
@@ -21,10 +25,17 @@ namespace QnA
             Questions.Add(question);
         }
 
+        public void AddAnswer(Question question, Answer answer )
+        {
+            question.answers.Add(answer);
+
+        }
+
         public void UpdateQuestion(Question question, string title, DateTime updateDate)
         {
             question.Title = title;
             question.UpdateDate = updateDate;
         }
+        
     }
 }
