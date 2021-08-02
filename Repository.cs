@@ -8,7 +8,7 @@ namespace QnA
         private List<Question> Questions { get; set; }
 
         public Repository(){
-            this.Questions = new List<Question>();
+            this.Questions = Utils.GenerateQuestions();
         }
 
         public List<Question> GetQuestions()

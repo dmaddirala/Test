@@ -5,6 +5,7 @@ namespace QnA
 {
     class Question
     {
+        public int QuestionId {get; set;}
         public  string Title { get; set;}
         public int UpVote { get; set;}
         public int DownVote { get; set;}
@@ -14,13 +15,16 @@ namespace QnA
         public DateTime UpdateDate { get; set; }
         public List<Answer> answers { get; set; }
 
-        public Question(string title, string userName, string userEmailId, DateTime entryDate)
+        public Question(int questionId, string title, int upVote, int downVote, string userName, string userEmailId, DateTime entryDate)
         {
+            this.QuestionId = questionId;
             this.Title = title;
+            this.UpVote = upVote;
+            this.DownVote = downVote;
             this.UserName = userName;
             this.UserEmailId = userEmailId;
             this.EntryDate = entryDate;
-            this.UpdateDate = UpdateDate;
+            this.UpdateDate = entryDate;
             
         }
     }

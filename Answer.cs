@@ -5,7 +5,7 @@ namespace QnA
 {
     public class Answer
     {
-        public string Ans { get; set;}
+        public string Title { get; set;}
         public int UpVote { get; set;}
         public int DownVote { get; set;}
         public string UserName { get; set;}
@@ -13,12 +13,11 @@ namespace QnA
         public DateTime EntryDate { get; set; }
         public DateTime UpdateDate { get; set; }
 
-        public Answer(string ans, string userName, string userEmailId, DateTime entryDate){
-            this.Ans = ans;
+        public Answer(string title, string userName, string userEmailId, DateTime entryDate){
+            this.Title = title;
             this.UserName = userName;
             this.UserEmailId = userEmailId;
             this.EntryDate = entryDate ;
-
         }
 
     }
