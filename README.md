@@ -37,9 +37,9 @@ MSBuild v15.9 is required to build DealerWebsites. Please perform the following 
     - apiHostUrl,TCApiHost url with "www.autobiz.in/"
     - AutobizHostUrl value with "https://www.autobiz.in/"
 - Comment Ctstock API,ct lead API and ct Sellcar API and replace with below code for car stock
-    - <add key="CTStockAPI" value="https://api.cartradeexchange.com/own_website/"/>
-    - <add key="CTLeadAPI" value="https://www.cartradeexchange.com/dms_apis/"/>
-    - <add key="CTSellCarAPI" value="https://www.cartradeexchange.com/cw_apis/"/>
+    - &lt;add key="CTStockAPI" value="https://api.cartradeexchange.com/own_website/"/&gt;
+    - &lt;add key="CTLeadAPI" value="https://www.cartradeexchange.com/dms_apis/"/&gt;
+    - &lt;add key="CTSellCarAPI" value="https://www.cartradeexchange.com/cw_apis/"/&gt;
 - Change rule name to current developing dealer name.
 
 
